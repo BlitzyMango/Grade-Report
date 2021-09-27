@@ -102,7 +102,7 @@ public class GradeReport {
 
     public static void main(String[] args) {
         int minimum_assignments = 2;        // Minimum # of assignments (can be changed)
-        GradeReport a = new GradeTeport();  // Instance of GradeTeport class
+        GradeReport a = new GradeReport();  // Instance of GradeTeport class
         a.reportGrades(minimum_assignments);
     }
 }
